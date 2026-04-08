@@ -1,0 +1,6 @@
+coqui-tts
+fastapi
+uvicorn[standard]
+python-multipart
+soundfile
+requests
